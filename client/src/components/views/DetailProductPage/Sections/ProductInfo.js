@@ -34,4 +34,5 @@ function ProductInfo(props) {
   );
 }
 
+
 export default ProductInfo;
